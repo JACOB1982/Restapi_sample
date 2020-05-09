@@ -4,7 +4,7 @@ HTTP GET /
 HTTP POST /
 HTTP PUT /
 HTTP DELETE / 
-HTTP PATCH /
+HTTP PATCH 
 
 
 We will explore some basic exaples and then move on to more complex ones.
