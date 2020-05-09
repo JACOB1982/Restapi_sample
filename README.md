@@ -1,5 +1,5 @@
 # RestAssured
-Sample code snippets of REST API VERBS with REST ASSURED api
+Sample code snippets of REST API VERBS with REST ASSURED api : 
 HTTP GET
 HTTP POST
 HTTP PUT
